@@ -6,13 +6,13 @@ const quizData = [
     correct: "b",
     },
     {
-    question: "Te quiere como novio/a?",
+    question: "Te quiere como novio?",
     a: "Si",
     b: "No",
     correct: "b",
     },
     {
-    question: "Te quiere como amigo/a",
+    question: "Te quiere como amigo",
     a: "Si",
     b: "No",
     correct: "a",
